@@ -1,0 +1,10 @@
+.line {
+    width: 5rem;
+    height: 1rem;
+    
+}
+
+.col-2, .col-4 {
+    min-height: 2rem;
+    background-color: blue;
+}
