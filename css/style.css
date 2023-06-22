@@ -1,10 +1,17 @@
-.line {
-    width: 5rem;
-    height: 1rem;
-    
+:root {
+    --bs-primary-rgb: 44,62,80;
+    --bs-secondary-rgb: 26,188,156;
 }
 
-.col-2, .col-4 {
-    min-height: 2rem;
-    background-color: blue;
+.avatar-img {
+    width: 150px;
+}
+
+.line {
+    width: 3rem;
+    height: 2rem;
+}
+
+.star-container {
+
 }
