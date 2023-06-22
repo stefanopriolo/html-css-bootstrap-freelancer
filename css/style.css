@@ -1,6 +1,7 @@
 :root {
     --bs-primary-rgb: 44,62,80;
     --bs-secondary-rgb: 26,188,156;
+    --bs-info-rgb: 58,84,109;
 }
 
 .avatar-img {
@@ -12,6 +13,18 @@
     height: 2rem;
 }
 
-.star-container {
+.my-form-control {
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-radius: 0;
+}
 
+.unstyled-link {
+    color: #1abc9c;
+    text-decoration: none;
+}
+
+.resize-span {
+    font-size: 0.8rem;
 }
